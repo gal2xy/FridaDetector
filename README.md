@@ -1,5 +1,5 @@
 # FridaDetector
-frida 检测，检测特征如下：
+native层实现 frida 检测，检测特征如下：
 
 - 默认端口检测
 
